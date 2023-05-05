@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6455328a6445f06393dcc1ff"
+  },
+  "name": "Mike",
+  "product_id": "64510cce36f070226d0db6de"
+},{
+  "_id": {
+    "$oid": "6455328a6445f06393dcc200"
+  },
+  "name": "Mike",
+  "product_id": "64510cce36f070226d0db6df"
+},{
+  "_id": {
+    "$oid": "6455328a6445f06393dcc201"
+  },
+  "name": "Bob",
+  "product_id": "645531ae6445f06393dcc1fc"
+}]
